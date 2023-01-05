@@ -83,9 +83,9 @@ img {
     display: flex;
     justify-content: center; 
     gap: 52px;  
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
 }
 
 .second img {
@@ -102,4 +102,30 @@ img {
     font-weight: 100;
     text-align: center;
 }
+
+
+/*third*/ 
+.third {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 150px; 
+    justify-content: center;
+    align-items: center;
+}
+
+.third .quote {
+    font-size: 36px; 
+    color: light italic #1f2937; 
+    margin-bottom: 20px;
+}
+
+.third .author {
+    align-self: flex-end;
+}
+
+
+
+
+
 
