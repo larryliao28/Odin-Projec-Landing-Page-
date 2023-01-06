@@ -7,3 +7,5 @@ Colors and font style: https://cdn.statically.io/gh/TheOdinProject/curriculum/81
 
 Credit to Odin Project: https://www.theodinproject.com/lessons/foundations-landing-page#warning-about-looking-at-other-peoples-finished-project-code-before-you-have-completed-your-own
 
+To view the website: larryliao28.github.io/Odin-Projec-Landing-Page-
+
